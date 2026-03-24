@@ -88,12 +88,4 @@ pytest tests/
 
 All 12 backend unit tests isolating the data manipulation logic run deterministically.
 
----
 
-## 💡 Repository Naming Suggestions
-
-If you are pushing this to GitHub, the following concise names accurately summarize the system architecture:
-- `AutoClean-ML` (Recommended)
-- `Autonomous-Data-Forge`
-- `AutoData-Pipeline`
-- `ETL-Autopilot`
