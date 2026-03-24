@@ -1,0 +1,38 @@
+# General
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Python virtual environment
+backend/.venv/
+backend/venv/
+backend/env/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# IDEs
+.idea/
+.vscode/
+
+# Datasets & Local Mounts
+/data/uploads/
+*.csv
+*.parquet
+test_dataset.csv
+sample_titanic.csv
